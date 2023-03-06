@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'HSteveLibrary_Example' do
+  pod 'HSteveLibrary', :path => '../'
+
+  target 'HSteveLibrary_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
