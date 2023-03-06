@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HSteveLibrary'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'HSteveLibrary to test publishing this library to trunk.'
   s.swift_version    = '5.0'
 
@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+long description that doesnt matter please just push to trunk without being annoying long description that doesnt matter please just push to trunk without being annoying long description that doesnt matter please just push to trunk without being annoying
                        DESC
 
   s.homepage         = 'https://github.com/steve-ham/HSteveLibrary'
