@@ -8,8 +8,9 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HSteveLibrary'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of HSteveLibrary.'
+  s.version          = '0.1.1'
+  s.summary          = 'HSteveLibrary to test publishing this library to trunk.'
+  s.swift_version    = '5.0'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
